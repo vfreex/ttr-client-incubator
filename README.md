@@ -1,2 +1,2 @@
 # ttr-client-incubator
-Prototype of TeamTalk-Remix client
+A prototype of TeamTalk-Remix client
